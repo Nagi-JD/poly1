@@ -29,7 +29,7 @@
     "react-dom": "19.2.0",
     "sonner": "^2.0.7",
     "tailwind-merge": "^3.4.0",
-    "viem": "^2.38.3",
+    "viem": "^2.40.3",
     "wagmi": "^2.18.2"
   },
   "devDependencies": {
